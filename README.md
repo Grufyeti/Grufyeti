@@ -6,7 +6,7 @@ I am also available to be hired for projects. You can look at my webpage www.pok
 
 ## 🚀 About Me
 
-- 🎓 Student from Austria
+- 🎓 Student from Austria at HTBLuVA Wiener Neustadt in the 3. grade
 - 💻 Interested in programming, system administration, and networking
 - 🖥️ Working with Linux servers, VMs, Nginx, Docker, and self-hosted services
 - 🌐 Building websites, APIs, and homelab projects
@@ -43,6 +43,7 @@ I am also available to be hired for projects. You can look at my webpage www.pok
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 📌 Current Interests
 
