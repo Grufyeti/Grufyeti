@@ -2,7 +2,7 @@
 
 I'm Martin!  
 I like building useful projects with Linux, networking, web development, and self-hosted tools.
-I am also available to be hired for projects. You can look at my webpage www.pokorny-martin.com and find my contact there.
+I am also available to be hired for projects. You can look at my webpage www.pokorny-martin.com and find my contact there or contact me on linked in www.linkedin.com/in/martin-pokorny-aa77b4310.
 
 ## 🚀 About Me
 
