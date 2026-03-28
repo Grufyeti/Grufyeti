@@ -2,6 +2,7 @@
 
 I'm Martin!  
 I like building useful projects with Linux, networking, web development, and self-hosted tools.
+I am also available to be hired for projects. You can look at my webpage www.pokorny-martin.com and find my contact there.
 
 ## 🚀 About Me
 
@@ -11,6 +12,7 @@ I like building useful projects with Linux, networking, web development, and sel
 - 🌐 Building websites, APIs, and homelab projects
 - 🤖 Interested in local AI, Ollama, Whisper, and automation
 - 🛠️ Always learning new technologies and improving my setup
+- 📖 Working on becoming a full time software engineer and full stack DEV
 
 ## 🧰 Skills and Tools
 
